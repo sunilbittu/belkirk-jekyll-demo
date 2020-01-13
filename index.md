@@ -3,24 +3,13 @@ title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Farm House
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
-services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+partners: []
+services: []
 sub_heading: Affordable farm housing
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: "Farm house:\n\n* 2 bhk duplex farm house\n* 12 variety  fruit bearing trees
+  \n* 120 landscaping trees\n* 1800sft lawn area\n* 11×11 sft sitout in garden \n*
+  Car parking \n* Entrance arch with gate\n* Lotus pond\n* 833 sqyrds\n* 24×7 Security
+  \n* Swimming pool"
 hero_button:
   text: Learn more
   href: "/about"
